@@ -9,9 +9,13 @@ Topics Covered
 1. Arrays — the foundation of almost everything
 
 -What is an array and why use it
+
 -Accessing elements by index
+
 -Modifying elements (adding, updating, removing)
+
 -Iterating over an array
+
 -Common array methods (push, pop, slice, etc.)
 
 2. Conditionals — making decisions in code
